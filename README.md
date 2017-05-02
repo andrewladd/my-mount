@@ -8,7 +8,7 @@ Clone the repo.
 
 Inside the repo: `lein jar`
 
-Then: `lein install`
+Then: `lein install -h`
 
 Then, when creating a new project: `lein new my-mount name-of-project`
 
