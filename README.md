@@ -24,8 +24,16 @@ lein repl
 (dev) => (go)
 
 ... run mount services ...
+```
 
-(dev) => 
+### After changing some code:
+```
+(dev) => (reset)
+```
+
+### If the code doesn't compile:
+```
+(dev) => (refresh)
 ```
 
 ## License
