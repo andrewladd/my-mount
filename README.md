@@ -38,5 +38,5 @@ lein repl
 
 ## License
 
-Copyright © 2017 FIXME
+Copyright © 2017 
 
